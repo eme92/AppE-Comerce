@@ -23,6 +23,7 @@ DerivedData
 
 # Android/IntelliJ
 #
+android/java_pid2464.hprof
 build/
 .idea
 .gradle
