@@ -6,7 +6,7 @@ import styles from './headerStyle';
 export default function Header(){
     <View style={styles.container}>
         <Text>
-            Header Working ...
+            Header Working Correctly ...
         </Text>
     </View>
 };
