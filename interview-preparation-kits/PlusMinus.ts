@@ -2,7 +2,7 @@
 
 Note: This challenge introduces precision problems. The test cases are scaled to six decimal places, though answers with absolute error of up to  are acceptable.
 
-Example
+Example:
 
 There are  elements, two positive, two negative and one zero. Their ratios are ,  and . Results are printed as:
 
